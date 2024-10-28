@@ -1,0 +1,12 @@
+*.log
+tmp/
+
+.ruby-version
+.bundle
+vendor
+Gemfile.lock
+
+/crash-*
+/slow-unit-*
+/corpus/*
+!/corpus/*.json
